@@ -44,11 +44,11 @@ No server or complex setup is required as this project is a front-end applicatio
 
 ## Folder Structure
 
-LeetMetric/
+LeetMetric/ <br>
 │
-├── index.html         # The main HTML file for the application
-├── style.css          # The CSS file for styling the page
-└── script.js          # The JavaScript file that handles the logic
+├── index.html         # The main HTML file for the application <br>
+├── style.css          # The CSS file for styling the page <br>
+└── script.js          # The JavaScript file that handles the logic <br>
 
 
 ## APIs Used
